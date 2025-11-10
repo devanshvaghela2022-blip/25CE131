@@ -2,6 +2,9 @@
 int main()
 {
     float w,h,B;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter your weight(in kg) := ");
     scanf("%f",&w);
     printf("\n Enter your height(in m) := ");
@@ -30,3 +33,4 @@ int main()
     }
     return 0;
 }
+
