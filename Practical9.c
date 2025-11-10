@@ -2,6 +2,9 @@
 int main()
 {
     float a,d,F;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter the Amount := ");
     scanf("%f",&a);
     if(a>0)
@@ -39,3 +42,4 @@ int main()
     }
     return 0;
 }
+
