@@ -2,6 +2,9 @@
 int main()
 {
     int n,n1=0,n2=1,nextn,i;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter the no. of months :- ");
     scanf("%d",&n);
     printf("Month :-                  ");
@@ -19,3 +22,4 @@ int main()
     }
     return 0;
 }
+
