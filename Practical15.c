@@ -3,6 +3,9 @@
 int main()
 {
     int i,s;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     while(1)
     {
         printf("\n Enter the no. of seconds := ");
@@ -31,3 +34,4 @@ int main()
     }
     return 0;
 }
+
