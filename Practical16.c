@@ -2,6 +2,9 @@
 int main()
 {
     int m=21,p,c;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     do
     {
         printf("\n Enter the no. of matchsticks to be picked(1 ,2 ,3 or 4 only) := ");
@@ -27,3 +30,4 @@ int main()
     }
     while(1);
 }
+
