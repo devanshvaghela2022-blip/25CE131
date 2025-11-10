@@ -2,6 +2,9 @@
 int main()
 {
     int i,j,a;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter the no. of rows :- ");
     scanf("%d",&a);
     for(i=1;i<=a;i++)
@@ -21,3 +24,4 @@ int main()
     }
     return 0;
 }
+
