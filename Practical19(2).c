@@ -2,6 +2,9 @@
 int main()
 {
     int i,j,n=5;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     for(i=1;i<=n;i++)
     {
         for(j=1;j<=(2*n)-1;j++)
@@ -23,3 +26,4 @@ int main()
     }
     return 0;
 }
+
