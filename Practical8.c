@@ -2,6 +2,9 @@
 int main()
 {
     int age;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter age := ");
     scanf("%d",&age);
     if(age>0)
@@ -21,3 +24,4 @@ int main()
     }
     return 0;
 }
+
