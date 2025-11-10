@@ -2,6 +2,9 @@
 int main()
 {
     int ch,total=0;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     do
     {
         printf("\n -------- Menu -------- \n");
@@ -52,3 +55,4 @@ int main()
     }while(1);
     return 0;
 }
+
