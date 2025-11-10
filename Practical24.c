@@ -3,6 +3,9 @@ int main()
 {
     int len=0,i,j;
     char notes[50],rev[50];
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter the notes := ");
     gets(notes);
     //Length of string
@@ -51,3 +54,4 @@ int main()
         }
     return 0;
 }
+
