@@ -2,6 +2,9 @@
 int main()
 {
     int l,b,a,p;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter Length of yard := ");
     scanf("%d",&l);
     printf("\n Enter Breadth of yard := ");
@@ -12,3 +15,4 @@ int main()
     printf("\n Perimeter of Yard := %d m",p);
     return 0;
 }
+
