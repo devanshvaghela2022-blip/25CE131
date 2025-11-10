@@ -5,6 +5,9 @@
 #include<stdint.h>
 int main()
 {
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n ----- Data Type Sizes and Ranges ----- \n \n");
 
     //CHAR
@@ -67,3 +70,4 @@ int main()
 
     return 0;
 }
+
