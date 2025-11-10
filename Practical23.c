@@ -2,6 +2,9 @@
 int main()
 {
     int a,temp;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("Enter the no. of days := ");
     scanf("%d",&a);
     int arr[a],maxp=0,profit=0,i,j;
@@ -37,3 +40,4 @@ int main()
     printf("\n Max Profit := %d",maxp);
     return 0;
 }
+
