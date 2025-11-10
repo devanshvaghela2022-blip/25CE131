@@ -2,6 +2,9 @@
 int main()
 {
     int i,j,rs,r,c;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     char arr[5][10];
     for(i=0;i<5;i++)
     {
@@ -44,3 +47,4 @@ int main()
     }
     return 0;
 }
+
