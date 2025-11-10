@@ -8,6 +8,9 @@ int main()
 {
     int ch,total,n,f,fine,flag,r;
     char x;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     do
     {
         printf("\n Option 0 : Exit");
@@ -112,3 +115,4 @@ int calculatefine(int f)
     fine=f*5;
     return fine;
 }
+
