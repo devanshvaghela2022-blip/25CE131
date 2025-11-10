@@ -2,6 +2,9 @@
 int main()
 {
     int i,j,a,b;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter the size of table vertically := ");
     scanf("%d",&a);
     printf("\n Enter the size of table horizontally := ");
@@ -17,3 +20,4 @@ int main()
     }
     return 0;
 }
+
