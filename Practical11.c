@@ -2,6 +2,9 @@
 int main()
 {
     float marks;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter Marks(0-100):= ");
     scanf("%f",&marks);
     if(marks>=0 && marks<=100)
@@ -14,3 +17,4 @@ int main()
     }
     return 0;
 }
+
