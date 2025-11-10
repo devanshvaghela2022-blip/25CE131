@@ -2,6 +2,9 @@
 int main()
 {
     int n,i,j,flag=0;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter the no. of items :- ");
     scanf("%d",&n);
     if(n>0)
@@ -50,3 +53,4 @@ int main()
     }
     return 0;
 }
+
