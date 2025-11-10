@@ -2,6 +2,9 @@
 int main()
 {
     int amount=5000,withdraw,ch;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Starting Balance is Rs.5000");
 
     while(1)
@@ -33,3 +36,4 @@ int main()
     }
     return 0;
 }
+
