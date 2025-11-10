@@ -2,6 +2,9 @@
 int main()
 {
     int i,n,asum=0,esum,missing;
+    printf("\n Name :- Devansh Vaghela");
+    printf("\n Id no. :- 25CE131");
+    printf("\n Batch & Division :- C2");
     printf("\n Enter the size of array := ");
     scanf("%d",&n);
     int arr[n-1];
@@ -16,3 +19,4 @@ int main()
     printf("\n The Missing Id := %d ",missing);
     return 0;
 }
+
